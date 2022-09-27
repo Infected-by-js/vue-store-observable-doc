@@ -13,6 +13,11 @@
     "vue-router": "^3.5.1",
     "vuetify": "^2.6.0"
   },
+  	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Infected-by-js/vue-store-observable-doc.git"
+	},
+  "homepage": "https://github.com/Infected-by-js/vue-store-observable-doc",
   "devDependencies": {
     "@babel/core": "^7.12.16",
     "@babel/eslint-parser": "^7.12.16",
