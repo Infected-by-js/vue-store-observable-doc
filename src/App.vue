@@ -23,16 +23,16 @@ import TodosSection from "@/ui/todos-section";
 export default {
   name: "App",
 
-  components: {
-    AppLoader,
-    AppHeader,
-    TodosSection,
-  },
-
   provide() {
     return {
       store: this.store,
     };
+  },
+
+  components: {
+    AppLoader,
+    AppHeader,
+    TodosSection,
   },
 
   data() {

@@ -33,6 +33,8 @@ import TodosBtnClear from "./components/TodosBtnClear.vue";
 export default {
   name: "todos-card",
 
+  inject: ["store"],
+
   components: {
     TodosForm,
     TodosProgress,
@@ -40,8 +42,6 @@ export default {
     TodosListItem,
     TodosBtnClear,
   },
-
-  inject: ["store"],
 
   computed: {
     ...mapGetters({
