@@ -13,5 +13,3 @@ export default {
   name: "app-loader",
 };
 </script>
-
-<style></style>
