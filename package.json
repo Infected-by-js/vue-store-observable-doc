@@ -20,7 +20,7 @@
     "type": "git",
     "url": "git+https://github.com/Infected-by-js/vue-store-observable-doc.git"
   },
-  "homepage": "https://github.com/Infected-by-js/vue-store-observable-doc",
+  "homepage": "https://infected-by-js.github.io/vue-store-observable-doc",
   "devDependencies": {
     "@babel/core": "^7.12.16",
     "@babel/eslint-parser": "^7.12.16",
